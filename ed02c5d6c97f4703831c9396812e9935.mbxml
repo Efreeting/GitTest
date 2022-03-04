@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="ed02c5d6c97f4703831c9396812e9935" IntId="133025" ProjectName="Test2" SystemTypeId="0" CreatDate="2022/1/12 9:49:55" LastUpdateTime="2022/1/12 9:49:55" Locked="0" IsFinished="0">
+<ProjectReference ProjectReferenceId="378ba4792ecc4a8aa0483923ea47a646" ReferenceFileId="100" ProjectId="ed02c5d6c97f4703831c9396812e9935" LibraryKey="7848351da696499d9d61ffb3f1ef9a62" LibraryName="QUDV Library" ReferenceType="0" ReferenceNote="QUVD Library" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="ce49ba3a32e54ad3969c62885fb7f8af" ReferenceFileId="100" ProjectId="ed02c5d6c97f4703831c9396812e9935" LibraryKey="b1784ead8d274662bf9a605c17a730de" LibraryName="RAAML" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="e5fd62614d5d454eaeb7bf730d1fd9b8" ReferenceFileId="100" ProjectId="ed02c5d6c97f4703831c9396812e9935" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="99b91458d6924cf38651c8bae198c708" ReferenceFileId="100" ProjectId="ed02c5d6c97f4703831c9396812e9935" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="1e62519e49244a6d9b5663180817b269" ReferenceFileId="100" ProjectId="ed02c5d6c97f4703831c9396812e9935" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ModelElement Id="ed02c5d6c97f4703831c9396812e9935" IntId="133025" ProjectId="ed02c5d6c97f4703831c9396812e9935" Name="Test2" ElementTypeKey="package" IsDelete="False" multiplicity="MBSES.SysML.Multiplicity" Direction="0" SubType="0" IntValue1="0" IntValue2="0" LastUpdateTime="2022/1/12 9:49:55" IsProperties="0" OrderId="0" IsFinished="0" />
+</Project>
