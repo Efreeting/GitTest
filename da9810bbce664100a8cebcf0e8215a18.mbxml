@@ -19,6 +19,7 @@
 <ModelDiagram Id="200052d430e8809e4affa7475e39d84f92ec" IntId="116073" DiagramTypeId="RequirementDiagram" Name="新版CARMES在神舟型号应用改进需求" ElementTypeKey="requirementDiagram" ElementName="需求" ModelNamespace="CARMES新版::需求" Expression="需求图 [包] 需求 [新版CARMES在神舟型号应用改进需求]" SourceElementId="1b275b9a1ce74250a77fc9d10a727eaa" ProjectId="da9810bbce664100a8cebcf0e8215a18" IsDelete="False" PaperKind="A4" Landscape="0" Margin="24,24,24,24" LastUpdateTime="2021/2/25 10:09:35" IsProperties="0" IsFinished="0" OrderId="116073">
 <DiagramNode Id="2000116076" IntId="116076" ParentId="0" DiagramId="52d430e8809e4affa7475e39d84f92ec" Width="1075" Height="746" X="24" Y="24" X2="0" Y2="0" X3="0" Y3="0" X4="0" Y4="0" Width2="0" Height2="0" BeginItemId="0" BeginItemPointIndex="0" EndItemId="0" EndItemPointIndex="0" ItemType="Shape" ElementId="ba8359e0fe1b463184ba69becd560d7b" IsDelete="False" IsShowStereotype="False" IsShowIcon="False" ShowStereotypeMode="0" ReferenceType="0" IsShowProperties="True" Angle="0" LastUpdateTime="2020/12/8 14:53:07" OrderId="-2" Width3="0" Height3="0" />
 >>>>>>> edaf0fb (提交信息)
+
 </ModelDiagram>
 
 </Project>
