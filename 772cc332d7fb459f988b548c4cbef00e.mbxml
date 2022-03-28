@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="772cc332d7fb459f988b548c4cbef00e" IntId="503024" ProjectName="9-账号管理" SystemTypeId="0" LastUpdateTime="2001/1/1 0:00:00" Locked="0" IsFinished="0">
+<ProjectReference ProjectReferenceId="4d7db59f4bd648458745892102901c89" ReferenceFileId="100" ProjectId="772cc332d7fb459f988b548c4cbef00e" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="9320b7379d7743c18fdcb59ef8cab9f4" ReferenceFileId="100" ProjectId="772cc332d7fb459f988b548c4cbef00e" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="f4eb3775f38b4f47b1c1cad47eaec28b" ReferenceFileId="100" ProjectId="772cc332d7fb459f988b548c4cbef00e" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>

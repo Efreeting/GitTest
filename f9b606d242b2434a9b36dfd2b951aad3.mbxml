@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="f9b606d242b2434a9b36dfd2b951aad3" IntId="522977" ProjectName="1.MBSE学习-2.SysML学习" SystemTypeId="0" CreatDate="2021/8/11 11:46:37" LastUpdateTime="2021/11/1 16:21:05" Locked="0" IsFinished="0">
+<ProjectReference ProjectReferenceId="e8a3004a7c2c4b9cb501f470e0ae8354" ReferenceFileId="100" ProjectId="f9b606d242b2434a9b36dfd2b951aad3" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="bd7d5b0cf35a4df68568df8bfd1ae245" ReferenceFileId="100" ProjectId="f9b606d242b2434a9b36dfd2b951aad3" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="647db91f008d4b5481cf2df785fbd383" ReferenceFileId="100" ProjectId="f9b606d242b2434a9b36dfd2b951aad3" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>

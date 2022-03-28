@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="8b32c48b95fd46bba312dd057bcd1a99" IntId="503021" ProjectName="6-素材管理" SystemTypeId="0" LastUpdateTime="2001/1/1 0:00:00" Locked="0">
+<ProjectReference ProjectReferenceId="41454ebf3deb4b11a6c1335d33ee8d37" ReferenceFileId="100" ProjectId="8b32c48b95fd46bba312dd057bcd1a99" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="da24354a23204be1b3a9022e24a2e744" ReferenceFileId="100" ProjectId="8b32c48b95fd46bba312dd057bcd1a99" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="f0d6597b8ea44fc4b52f2358dca43122" ReferenceFileId="100" ProjectId="8b32c48b95fd46bba312dd057bcd1a99" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>

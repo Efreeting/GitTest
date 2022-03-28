@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="95ad7e9275fd42e7af9d7db6058f49be" IntId="503020" ProjectName="5-微信网页开发" SystemTypeId="0" LastUpdateTime="2001/1/1 0:00:00" Locked="0">
+<ProjectReference ProjectReferenceId="0b711393fcc04eb4bc53ddd308627276" ReferenceFileId="100" ProjectId="95ad7e9275fd42e7af9d7db6058f49be" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="b315bfc3f86044f683458cb92ff95cf5" ReferenceFileId="100" ProjectId="95ad7e9275fd42e7af9d7db6058f49be" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="bf5241fa94514389846b1581194d6d69" ReferenceFileId="100" ProjectId="95ad7e9275fd42e7af9d7db6058f49be" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>

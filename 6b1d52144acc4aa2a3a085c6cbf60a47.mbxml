@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="6b1d52144acc4aa2a3a085c6cbf60a47" IntId="503022" ProjectName="7-图文消息留言管理" SystemTypeId="0" LastUpdateTime="2001/1/1 0:00:00" Locked="0" IsFinished="0">
+<ProjectReference ProjectReferenceId="44cdfef8c61746b3b957e1a98ece88e1" ReferenceFileId="100" ProjectId="6b1d52144acc4aa2a3a085c6cbf60a47" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="567fd2bb3fa34dcd96aea065dfa6ea44" ReferenceFileId="100" ProjectId="6b1d52144acc4aa2a3a085c6cbf60a47" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="b4254a2c4af843d4b0c691bf750b4f1a" ReferenceFileId="100" ProjectId="6b1d52144acc4aa2a3a085c6cbf60a47" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>

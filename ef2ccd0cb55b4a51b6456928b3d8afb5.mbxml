@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="ef2ccd0cb55b4a51b6456928b3d8afb5" IntId="503019" ProjectName="4-客服消息" SystemTypeId="0" LastUpdateTime="2001/1/1 0:00:00" Locked="0">
+<ProjectReference ProjectReferenceId="0ba1631ad7724851bdd007e66207db61" ReferenceFileId="100" ProjectId="ef2ccd0cb55b4a51b6456928b3d8afb5" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="8e83c2f4b0194fa7977f1319bd95066d" ReferenceFileId="100" ProjectId="ef2ccd0cb55b4a51b6456928b3d8afb5" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="ed361801e5e74e9993863a9a44d5c67e" ReferenceFileId="100" ProjectId="ef2ccd0cb55b4a51b6456928b3d8afb5" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>

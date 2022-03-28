@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Id="2fec09458bf5431ea295c5bb4f30b554" IntId="504761" ProjectName="03-JSON数据包" SystemTypeId="0" LastUpdateTime="2001/1/1 0:00:00" Locked="0">
+<ProjectReference ProjectReferenceId="0346ac35c451426d80f0e3897e2de993" ReferenceFileId="100" ProjectId="2fec09458bf5431ea295c5bb4f30b554" LibraryKey="3450443ee1904e7bbeff67384f3ccaac" LibraryName="SysML1.6" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="0a5fb5a514a14460bda54b7550c07804" ReferenceFileId="100" ProjectId="2fec09458bf5431ea295c5bb4f30b554" LibraryKey="40a3d3e7f86a484ab57d871a00029261" LibraryName="ZRSW" ReferenceType="0" ErrorState="0" IsDelete="False" />
+<ProjectReference ProjectReferenceId="e94a2041e2cb4df3b8b4650d114f5ccd" ReferenceFileId="100" ProjectId="2fec09458bf5431ea295c5bb4f30b554" LibraryKey="0d7ac6206c1b459a8f4dcf8f6b672ab3" LibraryName="SysML1.6中文简体" ReferenceType="0" ErrorState="0" IsDelete="False" />
+</Project>
